@@ -1,4 +1,4 @@
-package com.scanlibrary;
+package com.github.haggholm.scanlibrary;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.scanlibrary" >
+    package="com.github.haggholm.scanlibrary" >
     <uses-feature
         android:name="android.hardware.camera"
         android:required="true" />
@@ -21,7 +21,7 @@
 
         <provider
             android:name="android.support.v4.content.FileProvider"
-            android:authorities="com.scanlibrary.provider"
+            android:authorities="com.github.haggholm.scanlibrary.provider"
             android:exported="false"
             android:grantUriPermissions="true">
             <meta-data

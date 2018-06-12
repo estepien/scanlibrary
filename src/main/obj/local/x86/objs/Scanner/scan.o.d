@@ -1,6 +1,6 @@
 /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/AndroidScannerDemo/ScanDemoExample/scanlibrary/src/main/obj/local/x86/objs/Scanner/scan.o: \
  /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/AndroidScannerDemo/ScanDemoExample/scanlibrary/src/main/jni/scan.cpp \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/AndroidScannerDemo/ScanDemoExample/scanlibrary/src/main/jni/com_scanlibrary_ScanActivity.h \
+ /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/AndroidScannerDemo/ScanDemoExample/scanlibrary/src/main/jni/com.github.haggholm.scanlibrary_ScanActivity.h \
  /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/jni.h \
  /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/sys/cdefs.h \
  /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/sys/cdefs_elf.h \
@@ -223,7 +223,7 @@
  sdk/native/jni/include/opencv2/core/core.hpp \
  /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/android/bitmap.h
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/AndroidScannerDemo/ScanDemoExample/scanlibrary/src/main/jni/com_scanlibrary_ScanActivity.h:
+/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/AndroidScannerDemo/ScanDemoExample/scanlibrary/src/main/jni/com.github.haggholm.scanlibrary_ScanActivity.h:
 
 /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/jni.h:
 
