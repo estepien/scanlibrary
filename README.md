@@ -1,3 +1,5 @@
+(Forked from https://github.com/jhansireddy/AndroidScannerDemo/ to extract/publish the library with very minor changes)
+
 # ScanLibrary
 ScanLibrary is an android document scanning library built on top of OpenCV, using the app you will be able to select the exact edges and crop the document accordingly from the selected 4 edges and change the perspective transformation of the cropped image.
 
@@ -22,13 +24,13 @@ ScanLibrary is an android document scanning library built on top of OpenCV, usin
 # Videos
 
 <div align="center" >
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=Kl7rRZ79m6k" target="_blank"><img src="https://raw.githubusercontent.com/jhansireddy/AndroidScannerDemo/master/ScanDemoExample/screenshots/scanPoints.png" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Kl7rRZ79m6k" target="_blank"><img src="https://raw.githubusercontent.com/jhansireddy/AndroidScannerDemo/master/ScanDemoExample/screenshots/scanPoints.png"
 alt="Scan Video" width="40%" border="10" /></a>
 </div>
 
 # Using it in your project
-- If you are using android studio, add the dependency to your main app build.gradle this way: 
-```	    
+- If you are using android studio, add the dependency to your main app build.gradle this way:
+```
 compile project(':scanlibrary')
 ```
 - In your activity or fragment when you want to give an option of document scanning to user then:
@@ -81,6 +83,6 @@ Note: preference can be one of OPEN_CAMERA or OPEN_MEDIA or left empty, based on
 	LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 	OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 	SOFTWARE.
-	
+
 
 - **IMPORTANT:** This project uses the OPENCV Framework. Download the newest version here 'http://opencv.org/.
