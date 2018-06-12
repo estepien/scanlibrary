@@ -15,4 +15,7 @@
 #-keepclassmembers class fqcn.of.javascript.interface.for.webview {
 #   public *;
 #}
--keep class com.scanlibrary {public *;}
+-keep class com.scanlibrary.IScanner {public *;}
+-keep class com.scanlibrary.ScanActivity {public *;}
+-keep class com.scanlibrary.ScanConstants {public *;}
+-keep class com.scanlibrary.ScanActivity {public *;}
